@@ -1,0 +1,11 @@
+
+By LuwezR
+
+
+@echo off
+start %systemdrive%WINDOWSsystem32WISPTIS.EXE
+start %systemdrive%WINDOWSsystem32WISPTIS.EXE
+
+
+THIS IS A JOKE VIRUS
+The Responsibility Belongs to You <3
